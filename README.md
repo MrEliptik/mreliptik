@@ -36,6 +36,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### &#x1f4c8; GitHub Stats
 
+<p align="center">
 <a href="https://github.com/MrEliptik/MrEliptik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreliptik&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -43,9 +44,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MrEliptik/MrEliptik">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=mreliptik&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MrEliptik's GitHub Stats" />
 </a>
+</p>
 
 ### 📟 Arduino / Raspberry Pi / Microcontrollers
 
+<p align="center">
 <a href="https://github.com/MrEliptik/variometer">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=variometer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -73,9 +76,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MrEliptik/Breathalyzer">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=Breathalyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+</p>
 
 ### 📱 Android apps
 
+<p align="center">
 <a href="https://github.com/MrEliptik/camText">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camText&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
@@ -83,9 +88,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MrEliptik/camQR">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camQR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+</p>
 
 ### 🎮 Games
 
+<p align="center">
 <a href="https://github.com/MrEliptik/TypeItOut">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=TypeItOut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
@@ -109,3 +116,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MrEliptik/gameOff2019-flamer">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=gameOff2019-flamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+</p>

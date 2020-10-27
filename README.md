@@ -2,25 +2,26 @@
 
 My name is Victor Meunier and I'm a software engineer. I'm from France, living in Chambéry :mountains:, working as a freelancer. I love to make and create stuff: software, electronics, games.
 
+<p align="center">
 <a href="https://twitter.com/VicMeunier">
-  <img align="center" alt="Victor Meunier | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Victor Meunier | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/victormeunier73/">
-  <img align="center" alt="Victor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Victor's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.victormeunier.com/">
-  <img align="center" alt="Victor's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
+  <img align="center" alt="Victor's website" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
 </a>
 <a href="https://blog.victormeunier.com/">
-  <img align="center" alt="Victor's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="center" alt="Victor's blog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://mreliptik.itch.io/">
-  <img align="center" alt="Victor's Itchio page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />
+  <img align="center" alt="Victor's Itchio page" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />
 </a>
 <a href="https://sketchfab.com/victor.meunierpk/">
-  <img align="center" alt="Victor's sketchfab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sketchfab.svg" />
+  <img align="center" alt="Victor's sketchfab" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sketchfab.svg" />
 </a>
-
+</p>
 <a href="/">
   <img align="right" alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=mreliptik.mreliptik" />
 </a>

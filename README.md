@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="github_banner.png">
+</p>
+
 ## Hey there, I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name is Victor Meunier and I'm a software engineer. I'm from France, living in Chambéry :mountains:, working as a freelancer. I love to make and create stuff: software, electronics, games.

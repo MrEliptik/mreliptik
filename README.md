@@ -36,71 +36,71 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/MrEliptik/MrEliptik">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=mreliptik&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MrEliptik's GitHub Stats" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=mreliptik&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MrEliptik's GitHub Stats" />
 </a>
 
 ### Arduino / Raspberry Pi / Microcontrollers
 
 <a href="https://github.com/MrEliptik/variometer">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=variometer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=variometer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/MrEliptik/ESPLedWall">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=ESPLedWall&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=ESPLedWall&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/ZeroFrame">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=ZeroFrame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=ZeroFrame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/AmbianceLightDisplay">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=AmbianceLightDisplay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=AmbianceLightDisplay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/PiDeck">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=PiDeck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=PiDeck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/CryptoDisplay">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=CryptoDisplay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=CryptoDisplay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/Breathalyzer">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=Breathalyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=Breathalyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 ### 📱 Android apps
 
 <a href="https://github.com/MrEliptik/camText">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camText&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camText&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/camQR">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camQR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=camQR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ### 🎮 Games
 
 <a href="https://github.com/MrEliptik/TypeItOut">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=TypeItOut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=TypeItOut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/sniper_therapy">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=sniper_therapy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=sniper_therapy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/roll_launcher">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=roll_launcher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=roll_launcher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/-godot-wildjam-march-2020-">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=-godot-wildjam-march-2020-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=-godot-wildjam-march-2020-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/voice_zombie">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=voice_zombie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=voice_zombie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/MrEliptik/gameOff2019-flamer">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=gameOff2019-flamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=gameOff2019-flamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  

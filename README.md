@@ -7,6 +7,12 @@
 My name is Victor Meunier and I'm a software engineer. I'm from France, living in Chambéry :mountains:, working as a freelancer. I love to make and create stuff: software, electronics, games.
 
 <p align="center">
+<a href="https://www.youtube.com/c/MrEliptik">
+  <img align="center" alt="Victor Meunier | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://discord.gg/83nFRPTP6t">
+  <img align="center" alt="Victor Meunier | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 <a href="https://twitter.com/VicMeunier">
   <img align="center" alt="Victor Meunier | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

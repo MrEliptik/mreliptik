@@ -13,7 +13,7 @@ My name is Victor Meunier and I'm a software engineer. I'm from France, living i
 <a href="https://discord.gg/83nFRPTP6t">
   <img align="center" alt="Victor Meunier | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/VicMeunier">
+<a href="https://twitter.com/mreliptik_">
   <img align="center" alt="Victor Meunier | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/victormeunier73/">

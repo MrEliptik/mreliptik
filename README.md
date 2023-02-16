@@ -35,7 +35,7 @@ My name is Victor Meunier and I'm a software engineer. I'm from France, living i
 
 ### &#x270d; Blog
 
-Apart from coding and YouTube, I also maintain a blog - you can find my articles on my website at [blog.victormeunier.com](https://blog.victormeunier.com/).
+Apart from coding and YouTube, I also maintain a blog - you can find my articles on my website at [https://mreliptik.github.io/](https://mreliptik.github.io/).
 
 ### 🎮 Experiments with Godot
 

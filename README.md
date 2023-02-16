@@ -4,7 +4,8 @@
 
 ## Hey there, I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Victor Meunier and I'm a software engineer. I'm from France, living in Chambéry :mountains:, working as a freelancer. I love to make and create stuff: software, electronics, games.
+My name is Victor Meunier (MrEliptik) and I'm a French full time indie gamedev living near the moutains ⛰️. I make games with Godot, and create videos on YouTube. 
+If you want to work with me, contact me at [victormeunier.dev@gmail.com](mailto:victormeunier.dev@gmail.com) 📧
 
 <p align="center">
 <a href="https://www.youtube.com/c/MrEliptik">

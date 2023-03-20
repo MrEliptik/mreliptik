@@ -17,7 +17,7 @@ If you want to work with me, contact me at [victormeunier.dev@gmail.com](mailto:
 <a href="https://discord.gg/83nFRPTP6t">
   <img align="center" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/mreliptik_">
+<a href="https://twitter.com/mreliptik">
   <img align="center" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/victormeunier73/">

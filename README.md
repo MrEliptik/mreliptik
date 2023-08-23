@@ -48,6 +48,10 @@ Apart from coding and YouTube, I also maintain a blog - you can find my articles
 <a href="https://github.com/MrEliptik/shader_experiments">
   <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=shader_experiments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/MrEliptik/godot_ui_components">
+  <img align="center" height="125" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=shader_experiments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 </p>
 
 ### 📱 Android apps

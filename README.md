@@ -35,7 +35,7 @@ If you want to work with me, contact me at [victormeunier.dev@gmail.com](mailto:
 
 Apart from coding and YouTube, I also maintain a blog - you can find my articles on my website at [https://mreliptik.dev/](https://mreliptik.dev/).
 
-### 🎮 Experiments with Godot
+### 🧪 Experiments with Godot
 
 <p float="left">
 <a href="https://github.com/MrEliptik/godot_experiments">
@@ -51,7 +51,7 @@ Apart from coding and YouTube, I also maintain a blog - you can find my articles
 </a>
 </p>
 
-### 🎮 Tools & addons
+### 🧰 Tools & addons
 
 <p float="left">
 <a href="https://github.com/MrEliptik/game_launcher">

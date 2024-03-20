@@ -51,6 +51,18 @@ Apart from coding and YouTube, I also maintain a blog - you can find my articles
 </a>
 </p>
 
+### 🎮 Tools & addons
+
+<p float="left">
+<a href="https://github.com/MrEliptik/game_launcher">
+  <img align="center" height="125" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=game_launcher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/MrEliptik/slider_gamepad">
+  <img align="center" height="125" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=slider_gamepad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+</p>
+
 ### 🎮 Twitch overlays and games made with Godot
 
 <a href="https://github.com/MrEliptik/twitch_avatars_overlay">

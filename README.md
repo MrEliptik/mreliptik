@@ -61,6 +61,10 @@ Apart from coding and YouTube, I also maintain a blog - you can find my articles
 <a href="https://github.com/MrEliptik/slider_gamepad">
   <img align="center" height="125" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=slider_gamepad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+
+<a href="[https://github.com/MrEliptik/slider_gamepad](https://github.com/MrEliptik/blur_window_background)">
+  <img align="center" height="125" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreliptik&repo=blur_window_background&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 </p>
 
 ### 🎮 Twitch overlays and games made with Godot
